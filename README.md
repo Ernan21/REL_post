@@ -1,5 +1,6 @@
 <head>
-    <p id="title" style="size: 20px">Rel Automatico</P>
+    <p id="title" style="size: 20px
+    font-align: center">Rel Automatico</P>
 </head>
 <body>
     <div style="size: 10px;
